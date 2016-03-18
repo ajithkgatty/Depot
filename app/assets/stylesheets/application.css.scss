@@ -20,9 +20,11 @@
 	font: small-caps 40px/40px "Times New Roman", serif;
 	color: #282;
 	text-align: center;
+	height: 78px;
 
 	img {
-		float:left;
+		float: left;
+		position: relative;
 
 	}
 }
